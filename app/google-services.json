@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "617238579127",
+    "firebase_url": "https://geofirebaseproject-8f294.firebaseio.com",
+    "project_id": "geofirebaseproject-8f294",
+    "storage_bucket": "geofirebaseproject-8f294.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:617238579127:android:acb9be9a3b7c0d9b",
+        "android_client_info": {
+          "package_name": "com.example.shikova.geo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "617238579127-7rtg948ur4v26r65rlt3d8idb7g3j26m.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.shikova.geo",
+            "certificate_hash": "F1346A5C0C083BD4F10E3E416FE4186476C17B75"
+          }
+        },
+        {
+          "client_id": "617238579127-2tmavmaltl624ugbdtpu5u106g4m6k8t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDYA8YHLnTQBjBUG03hxB7smrqTJBE7cQU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "617238579127-2tmavmaltl624ugbdtpu5u106g4m6k8t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
